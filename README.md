@@ -1,2 +1,6 @@
 # GPIEC
 Projeto apresentado como TCC na Etec de Cotia (Centro Paula Souza) em 2014
+
+CHECAR A PASTA ESSENCIAIS
+
+PARA ACHAR O BANCO DE DADOS, ENTRE COM O USUÁRIO master E SENHA master PARA DEFINIR O IP DO SERVIDOR
